@@ -800,7 +800,7 @@ p {
     padding-bottom: 25px;
 }
 .slider-cont p{
-    font-size: 18px;
+    font-size: 28px;
     color: #fff;
     font-weight: 600;
     padding-bottom: 50px;
@@ -935,7 +935,7 @@ p {
 	padding: 0;
 }
 .slider-search .main-btn:hover{
-    border-color: #07294d;
+    border-color: #dc3545;
 }
 
 
@@ -966,7 +966,33 @@ p {
     font-size: 15px;
 }
 
+#pozisyonePAj{
+    width: 100%;
+    display: inline-flex;  
+}
 
+#reteADwat, #reteAgoch{
+    border-radius: 3px;
+    border: 1px solid #07294d;
+    width: 40%;
+    height: 50px;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 2%;
+    margin-bottom: 5%;
+}
+
+#reteADwat :hover, #reteAgoch :hover{
+    background-color: #07294d;
+    color: #fff;
+}
+#reteADwat a , #reteAgoch a{
+    color: #07294d;
+}
+
+#mitan{
+    width: 20%;
+}
 /*=====================================================
     4. CATEGORY css 
 ======================================================*/
