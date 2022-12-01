@@ -975,7 +975,7 @@ p {
     border-radius: 3px;
     border: 1px solid #07294d;
     width: 40%;
-    height: 50px;
+    height: 65px;
     padding-left: 4%;
     padding-right: 4%;
     padding-top: 2%;
@@ -1109,6 +1109,8 @@ p {
 
 .about-cont p{
     padding-top: 30px;
+    text-align: justify;
+    font-size: 20px;
 }
 
 .about-event{
@@ -1189,6 +1191,7 @@ p {
 .apply .apply-cont p{
     color: #fff;
     padding-bottom: 45px;
+    text-align: justify;
 }
 .apply .apply-cont .main-btn:hover{
     border-color: #ffc600;
