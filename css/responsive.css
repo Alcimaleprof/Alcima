@@ -413,7 +413,23 @@
 
 
 }
+/* Pou telefon li ye ranjel */
 
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #reteAgoch{
+       height: 80px;
+
+    }
+    
+    #reteADwat{
+        height: 80px;
+    }
+    
+    #reteADwat a{
+        font-size: 12px;
+    }
+
+}
  
 /* small mobile :320px. */
 @media (min-width: 576px) and (max-width: 767.98px) {
